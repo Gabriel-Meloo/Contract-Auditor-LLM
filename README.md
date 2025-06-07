@@ -24,7 +24,6 @@ Permitir que qualquer usuário possa:
 | **Groq (LLM)**     | Modelo de linguagem que executa a análise contextual   |
 | **LlamaIndex**     | Framework para conectar os dados estruturados ao LLM   |
 | **ChromaDB**       | Banco de dados vetorial para armazenar embeddings      |
-| **LangChain**      | (Opcional) Orquestração da consulta (se necessário)    |
 | **Python**         | Backend para ingestão de dados, chunking e avaliação   |
 
 ---
